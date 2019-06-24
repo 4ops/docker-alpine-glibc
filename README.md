@@ -1,6 +1,8 @@
 Alpine GNU C library (glibc) Docker image
 =========================================
 
+[![](https://images.microbadger.com/badges/image/4ops/alpine-glibc.svg)](https://hub.docker.com/r/4ops/alpine-glibc)
+
 This image is based on Alpine Linux image, which is only a 5MB image, and contains glibc to enable
 proprietary projects compiled against glibc (e.g. OracleJDK, Anaconda) work on Alpine.
 
