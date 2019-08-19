@@ -3,4 +3,5 @@ LICENSE
 Dockerfile
 .git
 .dockerignore
+.gitignore
 
